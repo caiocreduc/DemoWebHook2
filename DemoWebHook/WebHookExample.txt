@@ -2,7 +2,8 @@
    "WebHooks": {
       "GitHub": {
         "SecretKey": {
-           "default": "MY_KEY_GIT_WEBHOOK"             
+           "default": "MY_KEY_GIT_WEBHOOK"   
+           
          }
        }
      }
