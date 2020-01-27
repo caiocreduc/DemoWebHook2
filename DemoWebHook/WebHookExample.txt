@@ -1,0 +1,9 @@
+﻿{
+   "WebHooks": {
+      "GitHub": {
+        "SecretKey": {
+           "default": "MY_KEY_GIT_WEBHOOK"
+         }
+       }
+     }
+}

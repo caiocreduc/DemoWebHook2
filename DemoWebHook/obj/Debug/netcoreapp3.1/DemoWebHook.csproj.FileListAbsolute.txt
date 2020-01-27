@@ -1,0 +1,17 @@
+C:\DemoWebHook\DemoWebHook\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\DemoWebHook\DemoWebHook\bin\Debug\netcoreapp3.1\appsettings.json
+C:\DemoWebHook\DemoWebHook\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\DemoWebHook\DemoWebHook\bin\Debug\netcoreapp3.1\DemoWebHook.exe
+C:\DemoWebHook\DemoWebHook\obj\Debug\netcoreapp3.1\DemoWebHook.csprojAssemblyReference.cache
+C:\DemoWebHook\DemoWebHook\obj\Debug\netcoreapp3.1\staticwebassets\DemoWebHook.StaticWebAssets.Manifest.cache
+C:\DemoWebHook\DemoWebHook\obj\Debug\netcoreapp3.1\staticwebassets\DemoWebHook.StaticWebAssets.xml
+C:\DemoWebHook\DemoWebHook\obj\Debug\netcoreapp3.1\DemoWebHook.AssemblyInfoInputs.cache
+C:\DemoWebHook\DemoWebHook\obj\Debug\netcoreapp3.1\DemoWebHook.AssemblyInfo.cs
+C:\DemoWebHook\DemoWebHook\obj\Debug\netcoreapp3.1\DemoWebHook.RazorTargetAssemblyInfo.cache
+C:\DemoWebHook\DemoWebHook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebHooks.Receivers.dll
+C:\DemoWebHook\DemoWebHook\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\DemoWebHook\DemoWebHook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\DemoWebHook\DemoWebHook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\DemoWebHook\DemoWebHook\obj\Debug\netcoreapp3.1\DemoWebHook.csproj.CopyComplete
+C:\DemoWebHook\DemoWebHook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\DemoWebHook\DemoWebHook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebHooks.Receivers.GitHub.dll
